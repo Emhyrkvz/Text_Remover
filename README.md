@@ -8,7 +8,7 @@ This is a TEXT REMOVER program with Python
 - Easyocr
 
 1. You need to have an image with visiable text in it, for example car license plates.
-2. Copy the path of the image and paste it in img_path = r' PATH OF YOUR PICTURE '
+2. Copy the path of the image and paste it in line 7; img_path = r' PATH OF YOUR PICTURE '
 
 
 #NOTE: it has some problems for exmpl some pictures that needs zooming, the text cannot be detected however i will update and fix the issue
